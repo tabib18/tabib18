@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">👑 I am Full Stack Developer.<br>🖊️ Love to write code.<br>🔭 I’m currently working on my own project.<br>🌱 I’m currently learning JavaScript<br>👯 I’m looking to collaborate on Github.<br>💬 Ask me about Full Stack Development.</p>
+<p align="left">👑 I'm Full Stack Developer.<br>🖊️ Love to write code.<br>🔭 I’m currently working on my own project.<br>🌱 I’m currently learning JavaScript<br>👯 I’m looking to collaborate on Github.<br>💬 Ask me about Full Stack Development.</p>
 
 ###
 
