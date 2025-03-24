@@ -1,4 +1,4 @@
-<h2 align="left">Hi there 👋, I'm Tahsin Al Tabib</h2>
+<h1 align="left">Hi there 👋, I'm Tahsin Al Tabib</h1>
 
 ###
 
